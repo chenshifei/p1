@@ -1,0 +1,12 @@
+def find_root(n):
+    guess = 1
+    for i in range(10):
+        guess = (n / guess + guess) / 2
+        print('After iteration', i , 'my guess is', guess)
+
+def main():
+    print('Please input an integer and I will try to guess its root.')
+    num = input()
+    find_root(int(num))
+
+main()

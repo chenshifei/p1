@@ -1,0 +1,24 @@
+The number 5 is a very interesting number.
+The square of 5 is 25 and the cube of 5 is 125
+This line shows how big 5 is:, -----
+
+The number 6 is a very interesting number.
+The square of 6 is 36 and the cube of 6 is 216
+This line shows how big 6 is:, ------
+
+The number 7 is a very interesting number.
+The square of 7 is 49 and the cube of 7 is 343
+This line shows how big 7 is:, -------
+
+The number 8 is a very interesting number.
+The square of 8 is 64 and the cube of 8 is 512
+This line shows how big 8 is:, --------
+
+The number 9 is a very interesting number.
+The square of 9 is 81 and the cube of 9 is 729
+This line shows how big 9 is:, ---------
+
+The number 10 is a very interesting number.
+The square of 10 is 100 and the cube of 10 is 1000
+This line shows how big 10 is:, ----------
+

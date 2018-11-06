@@ -1,0 +1,83 @@
+1. pwd
+   /home/m18/shifei
+
+2. /
+
+3. Nothing happens, it stays at "/"
+
+4. At the title bar, after the colon
+
+5. ~
+
+6. The Property Man
+
+7.
+shifei@ackusativ$ python
+Python 3.4.9 (default, Aug 14 2018, 21:28:57) 
+[GCC 4.8.5 20150623 (Red Hat 4.8.5-28)] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import math
+>>> v = 42
+>>> x = math.cos(v)
+>>> y = math.sin(v)
+>>> x ** 2 + y ** 2
+1.0
+>>>
+
+8.
+shifei@ackusativ$ python describe-numbers.py 
+The number 5 is a very interesting number.
+The square of 5 is 25 and the cube of 5 is 125
+This line shows how big 5 is:, -----
+
+The number 6 is a very interesting number.
+The square of 6 is 36 and the cube of 6 is 216
+This line shows how big 6 is:, ------
+
+The number 7 is a very interesting number.
+The square of 7 is 49 and the cube of 7 is 343
+This line shows how big 7 is:, -------
+
+The number 8 is a very interesting number.
+The square of 8 is 64 and the cube of 8 is 512
+This line shows how big 8 is:, --------
+
+The number 9 is a very interesting number.
+The square of 9 is 81 and the cube of 9 is 729
+This line shows how big 9 is:, ---------
+
+The number 10 is a very interesting number.
+The square of 10 is 100 and the cube of 10 is 1000
+This line shows how big 10 is:, ----------
+
+9. python describe-numbers.py > about-numbers.txt
+
+10. <class 'int'>
+
+11. <class 'float'>
+
+12. <class 'str'>
+
+13.
+>>> str(2019)
+'2019'
+
+14.
+>>> float(4711)
+4711.0
+
+15.
+>>> float('1.17')
+1.17
+
+16.
+>>> int('zero')
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+ValueError: invalid literal for int() with base 10: 'zero'
+
+17.
+>>> int(3.14)
+3
+
+
