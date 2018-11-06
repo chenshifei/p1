@@ -3,6 +3,7 @@ from random import randrange
 def eeoo():
     with open('chaplin.txt') as f:
         for line in f:
+            line = line.strip()
             if 'ee' in line or 'oo' in line:
                 print(line)
 
